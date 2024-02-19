@@ -8,6 +8,7 @@ int main() {
 
   cout << "Enter a positive integer: ";
   cout << endl;
+  cin >> n;
 
   // 0 and 1 are not prime numbers
   if (n == 0 || n == 1) {
