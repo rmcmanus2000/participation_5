@@ -28,5 +28,10 @@ int main() {
   else
     cout << n << " is not a prime number";
 
+<<<<<<< HEAD
+=======
+  cout << "Commit 2";
+
+>>>>>>> 9e2c0a9 (commit 2)
   return 0;
 }
